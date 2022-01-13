@@ -1,3 +1,3 @@
 # Информация по проекту
 
-Ссылка на страницу: [CRUD](https://artyomzolotykh.github.io/diploma-react/).
+Ссылка на страницу: [REACT DIPLOM](https://artyomzolotykh.github.io/diploma-react/).
